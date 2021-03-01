@@ -8,6 +8,7 @@ class LearnactionsApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("A");
     }
 
 }
